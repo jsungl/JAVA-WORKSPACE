@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;kh.java.api.wrapper.WrapperTest&apos; to &apos;WrapperClassTest&apos;&#x0D;&#x0A;- Original project: &apos;11_API&apos;&#x0D;&#x0A;- Original element: &apos;kh.java.api.wrapper.WrapperTest&apos;&#x0D;&#x0A;- Renamed element: &apos;kh.java.api.wrapper.WrapperClassTest&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;WrapperTest&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;kh.java.api.wrapper{WrapperTest.java[WrapperTest" matchStrategy="1" name="WrapperClassTest" qualified="false" references="true" similarDeclarations="false" stamp="1609236950370" textual="false" version="1.0"/>
+</session>

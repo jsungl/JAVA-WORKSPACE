@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;kh.java.polymorphism.animal.Egle.java&apos; to &apos;Eagle.java&apos;&#x0D;&#x0A;- Original project: &apos;10_polymorphism&apos;&#x0D;&#x0A;- Original element: &apos;kh.java.polymorphism.animal.Egle.java&apos;&#x0D;&#x0A;- Renamed element: &apos;kh.java.polymorphism.animal.Eagle.java&apos;" description="Rename compilation unit &apos;Egle.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;kh.java.polymorphism.animal{Egle.java" name="Eagle.java" references="false" stamp="1609228832359" version="1.0"/>
+</session>

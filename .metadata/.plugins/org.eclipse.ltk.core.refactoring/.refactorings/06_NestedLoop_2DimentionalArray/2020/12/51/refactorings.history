@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;h&apos; in &apos;kh.java.nested.loop.NestedLoopTest.test2()&apos; to &apos;row&apos;&#x0D;&#x0A;- Original project: &apos;06_NestedLoop_2DimentionalArray&apos;&#x0D;&#x0A;- Original element: &apos;kh.java.nested.loop.NestedLoopTest.test2().h&apos;&#x0D;&#x0A;- Renamed element: &apos;h&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;h&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;kh.java.nested.loop{NestedLoopTest.java[NestedLoopTest~test2@h!580!600!584!584!I!0!false" name="row" references="true" stamp="1608019393919" version="1.0"/>
+</session>
